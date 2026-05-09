@@ -52,7 +52,7 @@ The project can display decimal values from 0 to 10.
 
 Example:
 
-![Project Image](image_name.jpg)
+![Project Image](project.jpg)
 
 ---
 
