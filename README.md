@@ -49,7 +49,6 @@ The project can display decimal values from 0 to 10.
 
 ## Project Images
 
-Add your project images here.
 
 Example:
 
@@ -58,7 +57,7 @@ Example:
 ---
 
 ## Project Video
-Upload your project demo video to the repository and add the link here.
+
 
 Example:
 
