@@ -86,4 +86,4 @@ For example:
 ---
 
 ## Author
-Ruhin Khan
+Jamil Hasan Khan Ruhin
