@@ -56,15 +56,6 @@ Example:
 
 ---
 
-## Project Video
-
-
-Example:
-
-[Project Demo Video](Binary To Decimal Converter Demonstration .mp4)
-
----
-
 ## How It Works
 The circuit receives a 4-bit binary number as input.  
 Logic gates process the input and activate the corresponding LED output that represents the decimal value.
